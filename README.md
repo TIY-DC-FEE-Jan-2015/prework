@@ -6,7 +6,7 @@ Housekeeping tasks to make our first few days run smoother.
 
 If you don't have them already, sign up for free accounts on the following services:
 
-* [GitHub](http://github.com) - The industry standard code host.
+* [GitHub](http://github.com) - The industry standard code host. You're looking at it right now!
 * [Medium](http://medium.com) - You'll be writing blog posts during the course, for the purposes of both reflection and building your personal brand. Medium's interface is great.
 * [Codecademy](http://codecademy.com) - An awesome *free* online code course.
 
