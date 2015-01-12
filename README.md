@@ -80,3 +80,4 @@ Finally, if you’re interested in learning how best to study and learn, many of
 ### Critical Developer Tools
 
 [Giphy](http://giphy.com/)
+[Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)
